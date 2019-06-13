@@ -1,2 +1,2 @@
 # mymis
-Just a hello world project for information management 
+Just a hello world project for information management ...
