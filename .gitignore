@@ -1,0 +1,6 @@
+*.pyc
+.idea
+.idea/misc.xml
+.idea/modules.xml
+.idea/uds-test-backend.iml
+.idea/workspace.xml
